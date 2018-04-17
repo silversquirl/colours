@@ -1,0 +1,7 @@
+shell:
+  extension: .sh
+  output: themes
+
+c:
+  extension: .h
+  output: themes
